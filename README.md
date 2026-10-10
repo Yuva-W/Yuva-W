@@ -39,32 +39,6 @@ MongoDB
 
 Git · GitHub · VS Code
 
-## Featured Projects
-
-### NextMeet
-
-Peer-to-peer video conferencing application built to understand WebRTC, signaling, ICE, STUN, and real-time communication.
-
-**Tech:** React · Node.js · Socket.IO · WebRTC
-
-### TradeLite
-
-Full-stack stock trading simulator with real-time market data, live price streaming, virtual wallet, and AI-powered price predictions.
-
-**Tech:** JavaScript · React · Node.js · MongoDB
-
-### Full-Stack Todo App
-
-MERN-based task management application with JWT authentication, task management, priorities, categories, and REST APIs.
-
-**Tech:** React · Node.js · Express · MongoDB · JWT
-
-### Zerodha Kite Clone
-
-Full-stack trading platform built to practice frontend-backend integration and application architecture.
-
-**Tech:** React · Node.js · Express · MongoDB
-
 ## Currently
 
 * Strengthening DSA with C++
