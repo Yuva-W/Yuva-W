@@ -11,10 +11,8 @@ Currently, I'm focused on improving my **DSA, full-stack development, and softwa
 * Data Structures & Algorithms with C++
 * Full-Stack Web Development
 * React and modern frontend development
-* Node.js and Express
-* MongoDB and REST APIs
-* Real-time applications with Socket.IO
-* WebRTC and peer-to-peer communication
+* CI/CD
+* DevOps concepts
 * Three.js and interactive web experiences
 
 ## Tech Stack
